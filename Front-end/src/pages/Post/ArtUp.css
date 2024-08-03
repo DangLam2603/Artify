@@ -1,0 +1,9 @@
+.ant-upload-list-item-thumbnail{
+	width:200px !important;
+	height:200px !important;
+}
+
+.ant-upload-list-item{
+	width:400px !important;
+	height:250px !important;
+}
